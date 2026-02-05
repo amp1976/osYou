@@ -1,0 +1,24 @@
+#**OSYou / OSDone – Core Principles**
+
+#Work like a human
+
+This system is designed around how humans actually work: with limited attention, frequent interruptions, and a need for clean stopping points. It removes friction instead of demanding optimization.
+This system helps you do more so you can be done
+Doing more is valuable only when it enables completion. Completion is a real state, and being done is success.
+
+#Efficiency creates time to play
+Efficiency at work is successful only when it creates time to play. Play is any time chosen freely, without obligation or productivity pressure.
+
+#Finish beats busy
+Visible, auditable completion matters more than constant activity. The system prioritizes finishing work clearly enough that trust is preserved without performative effort.
+
+#Winning work is not the goal
+Most systems are built to help you win more work. This system is built to help you finish work and leave it behind.
+
+#Guardrails
+	•	If a feature increases output but makes it harder to stop, it does not belong.
+	•	If a feature rewards availability instead of completion, it does not belong.
+	•	If a feature adds friction disguised as control, it does not belong.
+
+#Status
+These principles guide all future design decisions. They are intentionally restrictive.
