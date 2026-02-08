@@ -3,17 +3,23 @@
 #Work like a human
 
 This system is designed around how humans actually work: with limited attention, frequent interruptions, and a need for clean stopping points. It removes friction instead of demanding optimization.
-This system helps you do more so you can be done
+This system helps you do more so you can be done.
 Doing more is valuable only when it enables completion. Completion is a real state, and being done is success.
 
 #Efficiency creates time to play
 Efficiency at work is successful only when it creates time to play. Play is any time chosen freely, without obligation or productivity pressure.
+
+#Explanations (optional) are always available
+One click explains what each thing is in normal user language.
 
 #Finish beats busy
 Visible, auditable completion matters more than constant activity. The system prioritizes finishing work clearly enough that trust is preserved without performative effort.
 
 #Think it through
 Thinking is real work. This system protects time and space for deep thinking before action, response, or commitment. Speed that bypasses understanding is failure, not efficiency.
+
+#Useful is up to the user
+If the user doesn't find it useful, it needs to adapt (or be switched off).
 
 #Winning work is not the goal
 Most systems are built to help you win more work. This system is built to help you finish work and leave it behind.
@@ -22,6 +28,14 @@ Most systems are built to help you win more work. This system is built to help y
 	•	If a feature increases output but makes it harder to stop, it does not belong.
 	•	If a feature rewards availability instead of completion, it does not belong.
 	•	If a feature adds friction disguised as control, it does not belong.
+
+#List guardrails
+Lists are critical to work, and the order of items in a list makes it more useful or less useful.
+	•	The default order is user-controlled and stable. OSYou will not make decisions about this.
+	•	No sorting by ID, ever. IDs should remain invisible.
+	•	No sorting by task text/title unless the user explicitly chooses a “Sort A–Z” or some other text-dependent view.
+	•	Renaming or editing a task must never change its position.
+	•	New tasks land at the end (or top) of lists consistently, by design.
 
 #Status
 These principles guide all future design decisions. They are intentionally restrictive.
